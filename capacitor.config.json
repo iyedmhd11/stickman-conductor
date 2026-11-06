@@ -1,0 +1,7 @@
+{
+  "appId": "com.stickmanconductor.game",
+  "appName": "Stickman Conductor",
+  "webDir": "www",
+  "backgroundColor": "#0a0a18",
+  "server": { "androidScheme": "https" }
+}
